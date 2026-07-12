@@ -1,4 +1,6 @@
-﻿namespace Hw11
+﻿using System;
+
+namespace Hw11
 {
     class Play
     {
